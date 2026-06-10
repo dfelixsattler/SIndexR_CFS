@@ -3,7 +3,7 @@ This package is intended to be used with the Sindex.dll in order to derive site 
 
 The original SindexR package was an 'under-development' project by Yong Luo (Govn't of BC), which was last updated sometime around 2018. 
 
-The additions and changes made in SindexR_CFS bring the package to a usable state.  
+The additions and changes made in SindexR_CFS bring the package to a usable state. The motivation behind updating the original SindexR package was the need to have a Canada-wide collection of site index equations in one single repository. The SindexR_CFS package covers commercial and non-commercial species is BC.  
 
 ## To install the package
 library(devtools)
