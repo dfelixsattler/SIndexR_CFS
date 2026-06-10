@@ -1,5 +1,5 @@
 # SIndexR_CFS
-This package is intended to be used with the Sindex.dll in order to derive site index from height and age, height from site index and age, and age from height and site index. 
+This package is intended to be used with the Sindex.dll in order to derive site index from height and age, height from site index and age, and age from height and site index. The Sindex DLL may be found here: https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/stewardship/forest-analysis-inventory/software/sindex_dll_v154.zip
 
 The original SindexR package was an 'under-development' project by Yong Luo (Copyright 2018 Province of British Columbia), which was last updated sometime around 2018. 
 
